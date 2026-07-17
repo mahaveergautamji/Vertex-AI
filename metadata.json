@@ -1,0 +1,6 @@
+{
+  "name": "Vertex AI Scholar",
+  "description": "Vertex AI Scholar: A comprehensive academic operating system and learning workspace featuring study copilot, Socratic AI tutor, adaptive quizzes, flashcards, focus mode, performance analytics, algorithmic codelab, ATS resume analyzer, career roadmap navigator, citation assistant, and planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
